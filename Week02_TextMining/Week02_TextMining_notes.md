@@ -62,4 +62,7 @@ LDA是一种**主题模型（Topic Model）**，用于从大量文档中发现�
 - 本周重点掌握了如何构造语料 → 建立LDA模型 → 解释输出
 - 学会使用 `gensim` + `pyLDAvis` 进行文本挖掘的可视化
 - 后续可以在实际语料（如科技论文摘要）上应用该流程
+- ✅ 使用 真实论文数据生成 corpus.txt，而不是示例数据（如从 Week01 的 CSV 自动提取摘要字段）
+- ✅ 尝试 调整 LDA 参数（主题数 num_topics、passes、alpha、eta 等）分析效果变化
+- ✅ 将 pyLDAvis 结果 嵌入 markdown 或网站页面
 
