@@ -52,7 +52,7 @@ LDA是一种**主题模型（Topic Model）**，用于从大量文档中发现�
 
 > 已保存为：`lda_vis.html`  
 > 路径：`Week02_TextMining/lda_vis.html`  
-> https://sw20041218.github.io/tech-mining-study/lda_vis.html
+> `https://sw20041218.github.io/tech-mining-study/lda_vis.html`  
 > 用浏览器打开可交互查看每个主题的结构、关键词、文档分布。
 
 ---
