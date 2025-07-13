@@ -2,3 +2,6 @@ pandas
 jieba
 matplotlib
 wordcloud
+scikit-learn
+gensim
+pyLDAvis
