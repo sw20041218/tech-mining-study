@@ -1,4 +1,4 @@
-# 🚀 Tech Mining 学习路径（Fei Meng 教授方向）
+# 🚀 Tech Mining 学习路径
 
 [![GitHub stars](https://img.shields.io/github/stars/sw20041218/tech-mining-study?style=flat-square)](https://github.com/sw20041218/tech-mining-study/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/sw20041218/tech-mining-study?style=flat-square)](https://github.com/sw20041218/tech-mining-study/network)
