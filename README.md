@@ -66,9 +66,7 @@ python Week01_PythonBasics/keyword_analysis.py
 
 ---
 
-## 📚 参考资料
 
-- Fei Meng 教授 DBLP 页面: https://dblp.org/pid/78/5984-4.html
 
 ### 工具文档：
 
